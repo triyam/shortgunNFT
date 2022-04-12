@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shortgunNFT/static/css/main.6028d474.css",
-    "main.js": "/shortgunNFT/static/js/main.9e3294d4.js",
+    "main.js": "/shortgunNFT/static/js/main.e3d2535e.js",
     "static/js/787.2c289592.chunk.js": "/shortgunNFT/static/js/787.2c289592.chunk.js",
     "static/media/solana2.svg": "/shortgunNFT/static/media/solana2.10e9e1e4d974244b42eadb0e23d96060.svg",
     "index.html": "/shortgunNFT/index.html",
     "main.6028d474.css.map": "/shortgunNFT/static/css/main.6028d474.css.map",
-    "main.9e3294d4.js.map": "/shortgunNFT/static/js/main.9e3294d4.js.map",
+    "main.e3d2535e.js.map": "/shortgunNFT/static/js/main.e3d2535e.js.map",
     "787.2c289592.chunk.js.map": "/shortgunNFT/static/js/787.2c289592.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6028d474.css",
-    "static/js/main.9e3294d4.js"
+    "static/js/main.e3d2535e.js"
   ]
 }
