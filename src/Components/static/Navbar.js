@@ -19,7 +19,7 @@ const Navbar = () => {
         >
           <div className="row">
             <div className="col-3">
-          <a class="navbar-brand" href="#a" style={{fontSize:"x-large", fontWeight:"bolder", marginTop:"10px"}}>
+          <a class="navbar-brand" href="#" style={{fontSize:"x-large", fontWeight:"bolder", marginTop:"10px"}}>
             <img
               src="https://static.wixstatic.com/media/ccc269_fef35fd3445e47099ff2ba432afd2ead~mv2.png/v1/fill/w_60,h_50,al_c,usm_0.66_1.00_0.01,enc_auto/Original_edited_edited_edited.png"
               width="50"
@@ -64,7 +64,7 @@ const Navbar = () => {
             <li className="nav-item dropdown">
                 <a
                   className="nav-link active dropdown-toggle"
-                  href="#a"
+                  href="#"
                   id="navbarDropdown"
                   role="button"
                   data-toggle="dropdown"
@@ -74,34 +74,34 @@ const Navbar = () => {
                   Explore
                 </a>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     <img style={{height:"30px", width:"30px"}} src="https://opensea.io/static/images/icons/allnfts-light.svg" alt="" /> All NFTs
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                   <img style={{height:"30px", width:"30px"}} src="https://opensea.io/static/images/icons/art-light.svg" alt="" /> Art
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                   <img style={{height:"30px", width:"30px"}} src="https://opensea.io/static/images/icons/collectibles-light.svg" alt="" /> Collectibles
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                   <img style={{height:"30px", width:"30px"}} src="https://opensea.io/static/images/icons/domain-names-light.svg" alt="" />  Domian Names
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                   <img style={{height:"30px", width:"30px"}} src="https://opensea.io/static/images/icons/music-light.svg" alt="" /> Music
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                   <img style={{height:"30px", width:"30px"}} src="https://opensea.io/static/images/icons/photography-category-light.svg" alt="" /> Photography
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                   <img style={{height:"30px", width:"30px"}} src="https://opensea.io/static/images/icons/sports-light.svg" alt="" /> Sports
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                   <img style={{height:"30px", width:"30px"}} src="https://opensea.io/static/images/icons/trading-cards-light.svg" alt="" /> Trading Cards
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                   <img style={{height:"30px", width:"30px"}} src="https://opensea.io/static/images/icons/utility-light.svg" alt="" />  Utility
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                   <img style={{height:"30px", width:"30px"}} src="https://opensea.io/static/images/icons/virtual-worlds-light.svg" alt="" /> Virtual Worlds
                   </a>
                 </div>
@@ -109,7 +109,7 @@ const Navbar = () => {
               <li className="nav-item dropdown">
                 <a
                   className="nav-link active dropdown-toggle"
-                  href="#a"
+                  href="#"
                   id="navbarDropdown"
                   role="button"
                   data-toggle="dropdown"
@@ -119,10 +119,10 @@ const Navbar = () => {
                   Stats
                 </a>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                    <GiRank3/> Rankings
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                    <FiActivity/> Activity
                   </a>
                 </div>
@@ -130,7 +130,7 @@ const Navbar = () => {
               <li className="nav-item dropdown">
                 <a
                   className="nav-link active dropdown-toggle"
-                  href="#a"
+                  href="#"
                   id="navbarDropdown"
                   role="button"
                   data-toggle="dropdown"
@@ -140,41 +140,41 @@ const Navbar = () => {
                   Resources
                 </a>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     Help Center
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     Platform Status
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     Partners
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     Gas-Free Marketplace
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     Taxes
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     Blog
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     Docs
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     Newsletter
                   </a>
                 </div>
               </li>
               <li className="nav-item">
-                <a className="nav-link active" href="#a">
+                <a className="nav-link active" href="/create">
                   Create
                 </a>
               </li>
               <li className="nav-item dropdown">
                 <a
                   className="nav-link active dropdown-toggle"
-                  href="#a"
+                  href="#"
                   id="navbarDropdown"
                   role="button"
                   data-toggle="dropdown"
@@ -184,22 +184,22 @@ const Navbar = () => {
                   <img src="https://avatars.githubusercontent.com/u/55938092?v=4" alt="prof" style={{height:"30px", width:"30px", borderRadius:"10px"}}/>
                 </a>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     <MdAccountBox/> Profile
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     <MdFavoriteBorder/> Favorites
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     <BsEyeFill/> Watchlist
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     <BsGrid3X3/> My Collections
                   </a>
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     <RiSettings3Fill/> Settings
                   </a>                  
-                  <a className="dropdown-item" href="#a">
+                  <a className="dropdown-item" href="#">
                     <FiLogOut/> Log Out
                   </a>
                 </div>
